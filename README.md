@@ -1,5 +1,5 @@
 
-### Hi there I'm [Gaara!]
+### Hi there I'm Gaara!
 
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 
 
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=xyzgaara&show_icons=true&theme=dark)
 
-⭐️ From [AkhilGKrishnan](https://github.com/AkhilGKrishnan)
+⭐️ From [Gaara](https://github.com/xyzgaara)
